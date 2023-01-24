@@ -5,6 +5,7 @@ colors = ["red", "green", "yellow", "blue", "pink", "orange", "aqua", "lightgree
 
 t = Turtle()
 t.width(6)
+t.speed(0)
 
 
 for i in range(36):
